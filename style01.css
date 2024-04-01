@@ -1,0 +1,21 @@
+#Header{
+    font: Verdana;
+    font-size: 2em;
+    color: #de101d;;
+}
+#garia{
+    font-size: 14px;
+    color: #850f16;
+    font: Garamond;
+}
+.ha{
+    border: 2px solid black;
+}
+.yow{
+    background-color: #db5b0b;
+    border: 2px solid #bf3c09;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
